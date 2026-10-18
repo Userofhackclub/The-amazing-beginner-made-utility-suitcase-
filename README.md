@@ -8,3 +8,5 @@ I started with one idea but I did not stick with it, while learning my way throu
 
 The end result is the culmination of a lot of trial and error as well experimentation.
 
+The purpose of it is for me to place assorted screws into the two deep pockets on either side for easy access the middle portion is used for screwdrivers that go head first into the hole cut outs and as for the rounded channel that sits dead center on it, I might place screws, batteries, small parts, or anything else I'm currently working on.
+
