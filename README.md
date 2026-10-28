@@ -10,3 +10,9 @@ The end result is the culmination of a lot of trial and error as well experiment
 
 The purpose of it is for me to place assorted screws into the two deep pockets on either side for easy access the middle portion is used for screwdrivers that go head first into the hole cut outs and as for the rounded channel that sits dead center on it, I might place screws, batteries, small parts, or anything else I'm currently working on.
 
+I have searched online for a website I can get free quotes for printing services and found JLC3DP.
+I used they're tool and immediately understood that my design had some flaws I did not even consider in the design stage of this project like walls being too thin causing potential deformation to the part.
+
+Here is the actual quote I got:
+
+<img width="1920" height="1010" alt="Screenshot From 2026-10-28 21-24-53" src="https://github.com/user-attachments/assets/c4595a4b-f5b7-47c3-9fc1-fa1381f8b73b" />
